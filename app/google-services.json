@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590148830428",
+    "project_id": "autenticacionnotipoli",
+    "storage_bucket": "autenticacionnotipoli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590148830428:android:8689524d55acb57360e019",
+        "android_client_info": {
+          "package_name": "com.example.notipolihomeJ99"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590148830428-mfbknj1g7avlvhoadud712o7bpck3icp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notipolihomeJ99",
+            "certificate_hash": "ecefd24c72b69c9586afcb86a1898fd6bd79b2ee"
+          }
+        },
+        {
+          "client_id": "590148830428-p7fd1ht0emcq5girkofb8lu2bjb74t5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOrMZByVPtdxYLh8LJDvQiDI5IfY1Rb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590148830428-p7fd1ht0emcq5girkofb8lu2bjb74t5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
